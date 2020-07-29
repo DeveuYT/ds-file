@@ -13,7 +13,7 @@ int main() {
     return 0;
 }
 
-Output:
+Sample Output:
 
 Size of int: 4 bytes
 Size of float: 4 bytes
